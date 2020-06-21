@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 14 22:52:37 2020
 
-@author: guodx
+@author: guodxu@qq.com
 """
 
 def searchInShiftArray(ary:list, ele:int)->int:

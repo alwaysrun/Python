@@ -2,7 +2,7 @@
 """
 Created on Thu Apr  9 20:52:01 2020
 
-@author: guodx
+@author: guodxu@qq.com
 """
 
 def swapStr(ori:str)->str:

@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 25 21:35:22 2020
 
-@author: guodx
+@author: guodxu@qq.com
 """
 
 def LongestSubStringList(strFull):

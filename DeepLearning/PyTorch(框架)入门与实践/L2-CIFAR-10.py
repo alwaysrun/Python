@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 1 2019
 
-@author: guodx
+@author: guodxu@qq.com
 """
 
 import torch as t

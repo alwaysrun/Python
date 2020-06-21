@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 27 22:51:17 2020
 
-@author: guodx
+@author: guodxu@qq.com
 """
 
 def getAllRankRecursion(lstOri:list)->set:

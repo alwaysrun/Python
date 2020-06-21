@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 11 13:32:09 2020
 
-@author: guodx
+@author: guodxu@qq.com
 """
 
 def getThreeSum(ary:list)->list:

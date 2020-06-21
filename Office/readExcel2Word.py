@@ -12,7 +12,7 @@ pip install python_docx
 ‘简写’  ‘中文名’  ‘英文名’的缩写
 最后统一进行排序
 
-@author: xugd(guodxu@qq.com)
+@author: guodxu@qq.com
 """
 
 

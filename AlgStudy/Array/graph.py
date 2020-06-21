@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 12 09:03:42 2020
 
-@author: guodx
+@author: guodxu@qq.com
 """
 
 def getMaxArea(graph:list)->int:
